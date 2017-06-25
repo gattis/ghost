@@ -2,3 +2,7 @@
 	path = buildroot
 	url = git@github.com:gattis/buildroot.git
 	branch = ghost
+[submodule "linux"]
+	path = linux
+	url = git@github.com:gattis/linux.git
+	branch = ghost
